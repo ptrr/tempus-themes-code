@@ -1,0 +1,22 @@
+{
+    "name": "tempus-totus",
+    "displayName": "tempus-totus",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "koffiekop",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tempus Totus",
+                "uiTheme": "vs",
+                "path": "./themes/Tempus Totus-color-theme.json"
+            }
+        ]
+    }
+}
